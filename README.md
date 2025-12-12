@@ -38,6 +38,9 @@ Most existing tools:
 
 ---
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17906957.svg)](https://doi.org/10.5281/zenodo.17906957)
+
+
 ## Installation
 
 ```bash
